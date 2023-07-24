@@ -1,0 +1,8 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: next101
+    src: ./
+    engine: next
+    primary: true
+    public: true

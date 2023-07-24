@@ -1,0 +1,4 @@
+change: npm build => npm run build 
+
+
+render fix 
